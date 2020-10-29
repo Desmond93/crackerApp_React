@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/crackerApp_ReactNew/static/css/main.93c197bb.chunk.css",
+    "main.js": "/crackerApp_ReactNew/static/js/main.20022526.chunk.js",
+    "main.js.map": "/crackerApp_ReactNew/static/js/main.20022526.chunk.js.map",
+    "runtime-main.js": "/crackerApp_ReactNew/static/js/runtime-main.9ebe6302.js",
+    "runtime-main.js.map": "/crackerApp_ReactNew/static/js/runtime-main.9ebe6302.js.map",
+    "static/js/2.f36f7cef.chunk.js": "/crackerApp_ReactNew/static/js/2.f36f7cef.chunk.js",
+    "static/js/2.f36f7cef.chunk.js.map": "/crackerApp_ReactNew/static/js/2.f36f7cef.chunk.js.map",
+    "index.html": "/crackerApp_ReactNew/index.html",
+    "precache-manifest.be27ed14f1d9b175ac8ae8f1c7e25574.js": "/crackerApp_ReactNew/precache-manifest.be27ed14f1d9b175ac8ae8f1c7e25574.js",
+    "service-worker.js": "/crackerApp_ReactNew/service-worker.js",
+    "static/css/main.93c197bb.chunk.css.map": "/crackerApp_ReactNew/static/css/main.93c197bb.chunk.css.map",
+    "static/js/2.f36f7cef.chunk.js.LICENSE.txt": "/crackerApp_ReactNew/static/js/2.f36f7cef.chunk.js.LICENSE.txt",
+    "static/media/FirstSection.module.css": "/crackerApp_ReactNew/static/media/FirstSection_background.5894b9ba.png",
+    "static/media/Footer.module.css": "/crackerApp_ReactNew/static/media/Footer_background.e768202b.png",
+    "static/media/SecondSection.module.css": "/crackerApp_ReactNew/static/media/SecondSection_background.0b861ba8.png",
+    "static/media/SecondSection_circleCracker.png": "/crackerApp_ReactNew/static/media/SecondSection_circleCracker.46332b7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ebe6302.js",
+    "static/js/2.f36f7cef.chunk.js",
+    "static/css/main.93c197bb.chunk.css",
+    "static/js/main.20022526.chunk.js"
+  ]
+}
