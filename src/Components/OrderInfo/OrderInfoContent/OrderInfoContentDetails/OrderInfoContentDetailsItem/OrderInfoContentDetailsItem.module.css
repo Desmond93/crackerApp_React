@@ -1,0 +1,44 @@
+.orderInfoDetailsItem {
+    display: grid;
+    grid-template-columns: 9% 86% 5%;
+    padding-top: 0.25vw;
+    padding-right: 3.5vw;
+    padding-bottom: 0.5vw;
+}
+
+.orderSemen {
+    padding-top: 0.4vw;
+    padding-left: 1.2vw;
+}
+
+.orderSemen img {
+    height: 1.2vw;
+    display: block;
+}
+
+.orderContainer {
+    display: grid;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 20% 30%;
+    text-align: right;
+    padding-top: 0.2vw;
+    padding-right: 2vw;
+    border-bottom: solid 0.1vw rgba(51, 51, 51, 0.1);
+}
+
+.orderContainerData {
+    font-size: 0.9vw;
+    font-family: "Lato";
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+}
+
+.orderDeleteOrder img{
+    height: 1.6vw;
+    cursor: pointer;
+    display: block;
+}
+
+.orderDeleteOrder img:hover {
+    border-radius: 1vw;
+    background-color: rgb(255, 66, 0);
+}

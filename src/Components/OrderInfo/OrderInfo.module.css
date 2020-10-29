@@ -1,0 +1,6 @@
+.orderInfo {
+    background-color: #333333;
+    padding: 0 27vw 0 15.9vw;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}

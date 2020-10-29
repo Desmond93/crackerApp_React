@@ -1,0 +1,23 @@
+.orderInfoLogo {
+    display: grid;
+    grid-template-columns: 90% 10%;
+    position: relative;
+    top: 1vw;
+    z-index: 2;
+}
+
+.cracker {
+    font-size: 3.1vw;
+    font-family: "Kristi";
+    color: rgb(247, 247, 247); 
+    line-height: 1;    
+}
+
+.logo {
+    position: relative;
+    top: 2.5vw;
+    right: 10.8vw;
+    font-size: 0.9vw;
+    font-family: "Lato";
+    color: rgb(247, 247, 247);
+}

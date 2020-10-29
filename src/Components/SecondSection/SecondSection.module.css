@@ -1,0 +1,5 @@
+.secondSection {
+    background: no-repeat url("../../img/SecondSection_background.png");
+    background-size: cover;
+    height: 70vw;
+}

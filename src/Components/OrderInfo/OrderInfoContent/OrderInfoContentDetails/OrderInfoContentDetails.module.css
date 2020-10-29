@@ -1,0 +1,75 @@
+.orderInfoDetails {
+    position: absolute;
+    z-index: 10;
+    right: 25.2vw;
+    background-color: rgb(255, 255, 255);
+    width: 35vw;
+    padding: 1vw 1.4vw 1vw 3.8vw;
+}
+
+.imgContainer {
+    display: grid;
+    grid-template-columns: 11% 9% 9% 9% 9% 53%;
+}
+
+.imgContainerItem img {
+    height: 1.8vw;      
+}
+
+.imgContainerItemCancel {
+    text-align: right;
+    padding-top: 0.4vw;
+}
+
+.imgContainerItemCancel img {
+    height: 1.1vw;
+    cursor: pointer;
+    -webkit-transition: -webkit-transform .5s ease-in-out;
+    transition:         transform .5s ease-in-out;
+}
+
+.imgContainerItemCancel img:hover {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.detailsFooter {
+    display: grid;
+    grid-template-columns: 59% 20% 21%;
+    padding-top: 1vw;
+    padding-right:2.7vw;
+    text-transform: uppercase;
+    font-family: "Lato";
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+}
+
+.detailsFooterTotal {
+    text-align: right;
+    font-size: 0.9vw;
+    padding-top: 0.59vw;
+}
+
+.detailsFooterValue {
+    font-size: 1.2vw;
+    padding-top: 0.3vw;
+    padding-left: 0.3vw;
+    text-align: left;
+}
+
+.detailsFooterCheckout {
+    font-size: 0.9vw;
+    font-family: "Avenir";
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 66, 0);
+    text-align: center;
+    padding: 0.4vw 0;
+    border-radius: 1vw;
+    cursor: pointer;
+    border: solid 0.1vw rgb(255, 66, 0);
+}  
+
+.detailsFooterCheckout:hover {
+    color: rgb(255, 66, 0);
+    background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,50 @@
+.secondSectionCracerInfo {
+    padding-top: 3.7vw;
+}
+
+.header {
+    padding-left: 22vw;
+    font-size: 2.3vw;
+    font-family: "FredokaOne";
+    color: rgb(102, 102, 102);
+    text-transform: uppercase;
+    letter-spacing: 0.6vw;
+}
+
+.textContainer {
+    padding-top: 3vw;
+    display: grid;
+    grid-template-columns: 33.8% 66.2%;
+}
+
+.circleCrackerImg {
+    height: 19vw;
+    position: relative;
+    left: 25.3vw;
+    bottom: 5.2vw;
+    z-index: 2;
+}
+
+.text {
+    text-indent: 2vw;
+    font-size: 0.94vw;
+    font-family: "Lato";
+    color: rgb(51, 51, 51);
+    line-height: 1.556;
+    text-align: justify;
+    padding: 1.45vw 29.2vw 1vw 4vw;
+    background-color: rgba(215,191,191, 0.7);
+    position: relative;
+    z-index: 3;
+}
+
+.cracker {
+    font-size: 3.7vw;
+    font-family: "Kristi";
+    color: rgb(51, 51, 51);
+    padding-right: 25.7vw;
+    text-align: right;
+    position: relative;
+    bottom: 3vw;
+    z-index: 4;
+}  

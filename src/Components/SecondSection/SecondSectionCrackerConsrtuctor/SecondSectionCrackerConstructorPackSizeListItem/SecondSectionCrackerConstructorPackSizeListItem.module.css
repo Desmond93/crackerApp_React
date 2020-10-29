@@ -1,0 +1,14 @@
+.packSizeListItem {
+    padding: 0.5vw 0;
+    color: rgb(255, 66, 0);
+    border-top: 0.1vw solid rgb(255, 66, 0);
+    cursor: pointer;
+}
+
+.packSizeListItemActive {
+    background-color:  rgba(148, 146, 144, 0.9);;
+}
+
+.packSizeListItem:hover {
+    color: rgba(255, 66, 0, 0.7);
+}

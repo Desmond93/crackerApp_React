@@ -1,0 +1,71 @@
+.secondSectionCrackerConsrtuctorInput {
+    display: grid;
+    grid-template-columns: 15% 59.5% 25.5%;
+    padding-bottom: 0.9vw;
+}
+
+.rangeInputImg {
+    height: 3.2vw;
+}
+
+.rangeInput {
+    -webkit-appearance: none;
+    border-radius: 10px;
+    height: 0.2vw;
+    width: 100%;
+    margin-top: 1.4vw;
+}
+
+.rangeInput:active, .rangeInput:focus {
+    outline: none;
+}
+
+.rangeInput::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 2vw;
+    height: 2vw;
+    border-radius: 1vw;
+    cursor: pointer;
+    background-color: rgb(247,247,247);
+}
+
+.soebean {
+    background-color: #00a651;
+}
+
+.soebean::-webkit-slider-thumb {
+    border: 0.15vw solid #00a651;
+}
+
+.sesame {
+    background-color: #49743f;
+}
+
+.sesame::-webkit-slider-thumb {
+    border: 0.15vw solid #49743f;
+}
+
+.wheat {
+    background-color: #aba000;
+}
+
+.wheat::-webkit-slider-thumb {
+    border: 0.15vw solid #aba000;
+}
+
+.corn {
+    background-color: #979593;
+}
+
+.corn::-webkit-slider-thumb {
+    border: 0.15vw solid #979593;
+    cursor: default;
+}
+
+.rangeInputValue {
+    font-size: 1.6vw;
+    font-family: "Lato";
+    color: rgb(51, 51, 51);
+    text-transform: uppercase;
+    padding-top: 0.5vw;
+}

@@ -1,0 +1,55 @@
+.orderInfoContent {
+    display: grid;
+    grid-template-columns: 12% 53% 35%;
+    padding: 0.8vw 0 0.8vw 9vw;
+}
+
+.semenContainer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.semen {
+    height: 1.4vw;
+}
+
+.ordersQuantity {
+    position: relative;
+    bottom: 0.5vw;
+    right: 0.5vw;
+    font-size: 0.8vw;
+    font-family: "Lato";
+    background-color: rgb(255, 66, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 0.5vw;
+    height: 1vw;
+    height: 1vw;
+}  
+
+.orderInfoContentItem {
+    padding-top: 0.15vw;
+    font-size: 0.75vw;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.orderInfoContentItemTotal {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.orderInfoContentItemDetails {
+    display: grid;
+    grid-template-columns: 80% 20%;
+    cursor: pointer;
+}
+
+.contentItemLeftPart {
+    padding-top: 0.15vw;
+}
+
+.contentItemRightPart {
+    font-size: 0.95vw;
+}

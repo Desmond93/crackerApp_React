@@ -1,0 +1,60 @@
+.footer {
+    background: no-repeat url("../../img/Footer_background.png");
+    background-size: cover;
+    height: 41vw;
+    display: grid;
+    padding: 2vw 24vw 0 25vw;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.footerCol {
+    display: grid;
+    grid-template-columns: 15% 85%;
+}
+
+.footerColImg {
+    height: 1.6vw;
+}
+
+.footerColText {
+    text-align: left;
+    padding-left: 0.4vw;
+    letter-spacing: 0.05vw;
+}
+
+.footerColTextHeader {
+    font-size: 0.8vw;
+    font-family: "FredokaOne";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    padding-top: 0.5vw;
+    padding-bottom: 1.65vw;
+}  
+
+.footerColTextInfo {
+    font-size: 0.7vw;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    line-height: 1.35vw;
+}
+
+.footerColTextShareUs {
+    padding-bottom: 1.2vw;
+}
+
+.footerColTextLinks {
+    display: grid;
+    grid-template-columns: 15% 85%;
+    padding-bottom: 1.35vw;
+}
+
+.footerColTextLinksImg {
+    height: 2.5vw;
+}
+
+.footerColTextLinks a {
+    margin-top: 0.7vw;
+    margin-left: 1.3vw;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
